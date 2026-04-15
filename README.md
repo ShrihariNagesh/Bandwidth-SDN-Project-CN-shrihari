@@ -88,24 +88,24 @@ Bandwidth-SDN-Project/
 ## Results
 
 ### Single Topology
-![Ping](results/single_ping.png)
-![Iperf](results/single_iperf.png)
+![Ping](results/Screenshots/case1_pingall.png)
+![Iperf](results/Screenshots/case1_iperf.png)
 
 Bandwidth: 67.3 Gbps
 
 ---
 
 ### Linear Topology
-![Ping](results/linear_ping.png)
-![Iperf](results/linear_iperf.png)
+![Ping](results/Screenshots/Pingall_case2.png)
+![Iperf](results/Screenshots/case2_iperf.png)
 
 Bandwidth: 60.3 Gbps
 
 ---
 
 ### Tree Topology
-![Ping](results/tree_ping.png)
-![Iperf](results/tree_iperf.png)
+![Ping](results/Screenshots/case3_pingall.png)
+![Iperf](results/Screenshots/case3_iperf.png)
 
 Bandwidth: 59.9 Gbps
 
