@@ -1,0 +1,8 @@
+Topology: Single (2 hosts)
+Bandwidth: 68.2 Gbps
+
+Topology: Linear (3 nodes)
+Bandwidth: (put your value here)
+
+Topology: Tree
+Bandwidth: (put your value here)
