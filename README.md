@@ -85,6 +85,38 @@ Bandwidth-SDN-Project/
 ├── README.md
 ```
 
+## Results
+
+### Single Topology
+![Ping](results/single_ping.png)
+![Iperf](results/single_iperf.png)
+
+Bandwidth: 67.3 Gbps
+
+---
+
+### Linear Topology
+![Ping](results/linear_ping.png)
+![Iperf](results/linear_iperf.png)
+
+Bandwidth: 60.3 Gbps
+
+---
+
+### Tree Topology
+![Ping](results/tree_ping.png)
+![Iperf](results/tree_iperf.png)
+
+Bandwidth: 59.9 Gbps
+
+---
+
+## Analysis
+
+- Single topology gives highest bandwidth due to direct connection
+- Linear topology introduces delay due to multiple hops
+- Tree topology has more congestion and branching, reducing performance
+
 ---
 
 ## ✅ Conclusion
